@@ -1,4 +1,5 @@
 numpy
+psycopg2
 python-dotenv
 streamlit==1.22.0
 pandas==2.0
