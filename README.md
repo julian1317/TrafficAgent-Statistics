@@ -2,11 +2,13 @@
 Traffic Agent Statics
 
 modificacion de rango
+
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/e173cda5-c7aa-4a6a-b274-6748db5999fa)
 
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/b9c102ca-98ff-42d5-a329-dfff81baac77)
 
 se cambia el rango 
+
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/17c2d589-7138-446d-85c8-fc035b734bb2)
 
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/6503ca5d-4aa6-4576-a112-59466bda40a4)
