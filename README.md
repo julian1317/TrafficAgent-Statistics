@@ -22,3 +22,7 @@ se cambia la cantidad
 
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/d9e57c67-dfd0-4746-936a-338899824668)
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/6c2668b9-3ab1-44b9-ba8f-a644e55199fe)
+
+limpieza de datos
+![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/bedcd17c-a616-4e47-8c47-dba76ed3be7c)
+
