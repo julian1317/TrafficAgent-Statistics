@@ -1,7 +1,7 @@
 # trafficAgent-Statistics
 Traffic Agent Statics
 
-modificación de rango
+modificación de rango que se considera que un accidente debe estar separado de otro
 
 ![image](https://github.com/julian1317/trafficAgent-Statistics/assets/60907535/e173cda5-c7aa-4a6a-b274-6748db5999fa)
 
